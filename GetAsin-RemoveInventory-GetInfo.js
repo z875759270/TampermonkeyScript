@@ -50,7 +50,6 @@ this.$ = this.jQuery = jQuery.noConflict(true);
                 }
             }, 500);
         })
-
     }
 
     function setButton() {
